@@ -303,7 +303,49 @@ HTML_HEAD = """<!DOCTYPE html>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="./img/bni_favicon_without_background.png">
 <link rel="apple-touch-icon" href="./img/bni_favicon_without_background.png">
+<meta name="google-site-verification" content="Rna-rJPOpfR1o9EzTL76RlyYzt5lauxeTnja09s3OfQ" />
+<meta name="description" content="Elenco aggiornato dei membri del capitolo BNI Corsaro Nero di Ventimiglia. Trova professionisti e imprenditori della rete BNI nella Riviera Ligure.">
+<meta name="keywords" content="BNI Ventimiglia, Corsaro Nero, Business Network International, networking, imprenditori, professionisti, Riviera Ligure, referral marketing">
+<link rel="canonical" href="https://paolo410.github.io/bni-sanremo/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="BNI Ventimiglia – Capitolo Corsaro Nero | Membri">
+<meta property="og:description" content="Elenco aggiornato dei membri del capitolo BNI Corsaro Nero di Ventimiglia. Trova professionisti e imprenditori della rete BNI nella Riviera Ligure.">
+<meta property="og:url" content="https://paolo410.github.io/bni-sanremo/">
+<meta property="og:image" content="https://paolo410.github.io/bni-sanremo/img/bni_logo.png">
+<meta property="og:locale" content="it_IT">
+<meta property="og:site_name" content="BNI Ventimiglia – Corsaro Nero">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="BNI Ventimiglia – Capitolo Corsaro Nero | Membri">
+<meta name="twitter:description" content="Elenco aggiornato dei membri del capitolo BNI Corsaro Nero di Ventimiglia. Trova professionisti e imprenditori della rete BNI nella Riviera Ligure.">
+<meta name="twitter:image" content="https://paolo410.github.io/bni-sanremo/img/bni_logo.png">
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "BNI Ventimiglia – Capitolo Corsaro Nero",
+  "description": "Capitolo BNI Corsaro Nero di Ventimiglia, gruppo di networking per professionisti e imprenditori nella Riviera Ligure.",
+  "url": "https://paolo410.github.io/bni-sanremo/",
+  "logo": "https://paolo410.github.io/bni-sanremo/img/bni_logo.png",
+  "sameAs": [
+    "https://bni-riviereliguri.it"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ventimiglia",
+    "addressRegion": "Liguria",
+    "addressCountry": "IT"
+  }
+}
+</script>
+
 <style>
+
 :root{
   --red:#E2001A;--dark-red:#B5001A;--white:#fff;--off-white:#f7f7f7;--gray:#555;--border:#e0e0e0;
   --hero-right-bg:#E2001A;

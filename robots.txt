@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paolo410.github.io/bni-sanremo/sitemap.xml
